@@ -7,3 +7,7 @@ flutter test
 
 to run as a web server 
 flutter run -d web-server --web-port=8084 --web-hostname=0.0.0.0
+
+build for ios  run
+flutter build ios --release
+flutter build ios --debug
